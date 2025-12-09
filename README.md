@@ -63,17 +63,5 @@ src/
  │   │   ├── templates/
  │   │   └── application.properties
  └── test
-## 📸 Screenshots
 
-### ⭐ User Registration
-<img src="register.jpeg" width="600"/>
-
-### ⭐ Profile Settings
-<img src="profile.jpeg" width="600"/>
-
-### ⭐ User Dashboard
-<img src="dashboard.jpeg" width="600"/>
-
-### ⭐ Complaint Submission Form
-<img src="complaint.jpeg" width="600"/>
 
