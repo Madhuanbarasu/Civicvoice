@@ -63,5 +63,13 @@ src/
  │   │   ├── templates/
  │   │   └── application.properties
  └── test
+ ![home](https://github.com/user-attachments/assets/3249ed09-ff22-4f6d-a8b4-a0c07d63abda)
+
+![register](https://github.com/user-attachments/assets/4166afca-8ba6-490f-981c-75517cb59c12)
+![profile](https://github.com/user-attachments/assets/7085349b-1861-4aa5-a638-f071f6997072)
+![dashboard](https://github.com/user-attachments/assets/7155cc38-f1d2-4a34-a65b-dd0191922654)
+![complaint](https://github.com/user-attachments/assets/f5e8fc74-8aae-49a8-a237-035cf1447eac)
+![mycomplaints](https://github.com/user-attachments/assets/e1157c7a-04b8-40b5-9252-a6e77ced6b6d)
+
 
 
