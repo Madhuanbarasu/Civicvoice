@@ -65,6 +65,8 @@ src/
  │   │   ├── templates/
  │   │   └── application.properties
  └── test
+ ## 🖼 Application Screenshots
+
  ![home](https://github.com/user-attachments/assets/3249ed09-ff22-4f6d-a8b4-a0c07d63abda)
 
 ![register](https://github.com/user-attachments/assets/4166afca-8ba6-490f-981c-75517cb59c12)
