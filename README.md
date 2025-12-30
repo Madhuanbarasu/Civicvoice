@@ -74,6 +74,15 @@ src/
  │   │   ├── templates/
  │   │   └── application.properties
  └── test
+
+ ## 🔮 Future Enhancements
+
+- Email notifications for complaint status updates  
+- Role-based access using Spring Security  
+- REST APIs for mobile application support  
+- Advanced analytics dashboard  
+- Cloud storage for media uploads
+
  ## 🖼 Application Screenshots
 
  ![home](https://github.com/user-attachments/assets/3249ed09-ff22-4f6d-a8b4-a0c07d63abda)
