@@ -93,5 +93,11 @@ src/
 ![complaint](https://github.com/user-attachments/assets/f5e8fc74-8aae-49a8-a237-035cf1447eac)
 ![mycomplaints](https://github.com/user-attachments/assets/e1157c7a-04b8-40b5-9252-a6e77ced6b6d)
 
+## 👤 Author
+
+**Madhu Anbarasu**  
+IT Student | Java & Spring Boot Developer  
+GitHub: https://github.com/Madhuanbarasu
+
 
 
