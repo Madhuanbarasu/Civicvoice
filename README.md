@@ -56,6 +56,15 @@ Database: MySQL
 
 IDE: IntelliJ IDEA
 
+## ▶️ How to Run the Project
+
+1. Clone the repository  
+2. Create a MySQL database  
+3. Update database credentials in `application.properties`  
+4. Run the project using Maven or your IDE  
+5. Access the application at `http://localhost:8080`
+
+
 📁 Project Structure
 src/
  ├── main/
